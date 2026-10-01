@@ -1,0 +1,4 @@
+Using clean commands kep your repository up to date and ensure that nothing you do not want in your work is included. 
+Cherry picking can be helpful in some scenarios, but should generally be avoided because of the issues it can cause. 
+To best understand issues, you need to understand how they're made and create them. 
+Creating issues in GitHub is a useful tool for assigning work to people and creating tasks.
